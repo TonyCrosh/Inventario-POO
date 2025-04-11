@@ -1,0 +1,7 @@
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\bin\Debug\Inventario Poo.exe.config
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\bin\Debug\Inventario Poo.exe
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\bin\Debug\Inventario Poo.pdb
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\obj\Debug\Inventario Poo.csproj.AssemblyReference.cache
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\obj\Debug\Inventario Poo.csproj.CoreCompileInputs.cache
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\obj\Debug\Inventario Poo.exe
+C:\Users\tanar\source\repos\Inventario Poo\Inventario Poo\obj\Debug\Inventario Poo.pdb

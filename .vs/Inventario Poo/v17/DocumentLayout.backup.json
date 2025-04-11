@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|c:\\users\\tanar\\onedrive\\escritorio\\cutri 5\\progra\\inventario poo\\inventario poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|C:\\Users\\tanar\\source\\repos\\Inventario Poo\\inventario poo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|solutionrelative:inventario poo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|C:\\Users\\tanar\\source\\repos\\Inventario Poo\\inventario poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|solutionrelative:inventario poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|C:\\Users\\tanar\\source\\repos\\Inventario Poo\\inventario poo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89911F1-DF7D-4AAC-AA93-19AEB92BA5A5}|Inventario Poo\\Inventario Poo.csproj|solutionrelative:inventario poo\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Articulo.cs",
+              "RelativeDocumentMoniker": "Inventario Poo\\Articulo.cs",
+              "ToolTip": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Articulo.cs",
+              "RelativeToolTip": "Inventario Poo\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:18:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Inventario.cs",
+              "RelativeDocumentMoniker": "Inventario Poo\\Inventario.cs",
+              "ToolTip": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Inventario.cs",
+              "RelativeToolTip": "Inventario Poo\\Inventario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:16:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Inventario Poo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tanar\\source\\repos\\Inventario Poo\\Inventario Poo\\Cliente.cs",
+              "RelativeToolTip": "Inventario Poo\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:11:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario POO.cs",
+              "DocumentMoniker": "C:\\Users\\tanar\\OneDrive\\Escritorio\\cutri 5\\Progra\\Inventario Poo\\Inventario POO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Escritorio\\cutri 5\\Progra\\Inventario Poo\\Inventario POO.cs",
+              "ToolTip": "C:\\Users\\tanar\\OneDrive\\Escritorio\\cutri 5\\Progra\\Inventario Poo\\Inventario POO.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Escritorio\\cutri 5\\Progra\\Inventario Poo\\Inventario POO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:08:49.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
